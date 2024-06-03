@@ -5,7 +5,7 @@
 1.  используй команду `docker compose up -d`
 
 
-## Настройка бэка (он настройн, если что-то пойдет не так)
+## Настройка бэка 
 
 1. php artisan config:cache && php artisan route:cache && php artisan migrate && php artisan l5-swagger:generate
 или
